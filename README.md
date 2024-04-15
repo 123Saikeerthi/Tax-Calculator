@@ -33,4 +33,11 @@ Design a website that allows for tax calculation based on a users input.
 - You're free to make assumptions, please make sure they are mentioned in the README.
 - Design is for representation purposes only, you are free to modify it, but all the functionalities as shown in the design (and as listed in requirements) should be present.
 - Make sure all edge cases are thought out throughly and handled.
+  
+### Screenshots of the test results
+![Screenshot (46)](https://github.com/123Saikeerthi/Tax-Calculator/assets/99475756/9532774a-6395-432d-abec-4a9e448574e3)
+![image](https://github.com/123Saikeerthi/Tax-Calculator/assets/99475756/d894fa0a-6171-47f8-b0de-abee2edb8e9b)
+![Screenshot (45)](https://github.com/123Saikeerthi/Tax-Calculator/assets/99475756/ca41ff75-2133-405d-b25d-5a00f63be3d0)
+
+
 
